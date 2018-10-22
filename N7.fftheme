@@ -1,0 +1,65 @@
+{
+    "version": 2.1,
+
+    /* General Colors */
+    "kFieryColorsAccentColor" : "FFFFFF",
+    "kFieryColorsBackgroundColor" : "000000",
+    "kFieryColorsBackgroundAccentColor" : "000000",
+    "kFieryColorsForegroundColor" : "ffffff",
+    "kFieryColorsForegroundAccentColor" : "FF0033",
+    "kFieryColorsWindowBackgroundColor": "00000050",
+    "kFieryColorsBlurColor": "11111120",
+
+    /* Navigation Bar */
+    "kFieryColorsNavbarForegroundColor" : "ffffff",
+    "kFieryColorsNavbarGradientTopColor" : "00000001",
+    "kFieryColorsNavbarGradientBottomColor" : "00000001",
+    "kFieryColorsNavbarAccentColor" : "FF003310",
+    "kFieryColorsNavbarTitleColor" : "999999",
+    "kFieryColorsNavbarShadowOpacity" : 0.9,
+
+    /* Notification View */
+    "kFieryColorsNotificationBackgroundColor" : "FF003395",
+    "kFieryColorsNotificationForegroundColor" : "FFFFFF",
+
+    /* Toolbar */
+    "kFieryColorsToolbarBackgroundColor" : "FF003310",
+    "kFieryColorsToolbarForegroundColor" : "ffffff",
+    "kFieryColorsToolbarShadowOpacity" : 0.9,
+
+    /* Alert View */
+    "kFieryColorsAlertViewBackground" : "FF003350",
+    "kFieryColorsAlertViewForeground" : "ffffff",
+    "kFieryColorsAlertViewButtonColor" : "ffffff",
+
+    /* Table View Cell */
+    "kFieryColorsCellHighlightBackgroundColor" : "22222225",
+    "kFieryColorsCellHighlightForegroundColor" : "ffffff",
+    "kFieryColorsCellSeparatorColor" : "222222",
+
+    /* Article Cell Buttons */
+    "kFieryColorsCellButtonsBackgroundColor" : "FF0033",
+    "kFieryColorsCellButtonsForegroundColor": "000000",
+    "kFieryColorsCellButtonsHighlightBackgroundColor": "FF0033",
+    "kFieryColorsCellButtonsHighlightForegroundColor": "000000",
+
+    /* Article Cell Preview Text */
+    "kFieryColorsCellPreviewTextColor" : "d4d9e0",
+    "kFieryColorsCellHighlightPreviewTextColor" : "d4d9e0",
+
+    /* Image View */
+    "kFieryColorsImageViewBackground" : "00000010",
+
+    /* Article View */
+    "kFieryColorsArticleBackgroundColor" : "00000030",
+    "kFieryColorsArticleBackgroundAccentColor" : "c2c5c9",
+    "kFieryColorsArticleTitleColor" : "EEEEEE",
+    "kFieryColorsArticleTextColor" : "d4d9e0",
+    "kFieryColorsArticleTextAccentColor" : "ec6f35",
+
+    /* App Settings */
+    "kFieryColorsLightStatusbar" : true,
+    "kFieryColorsDarkScrollbars" : false,
+    "kFieryColorsReadArticleAlpha" : 0.1,
+    "kFieryColorsBackgroundBlurStyle" : "UIBlurEffectStyleDark"
+}
