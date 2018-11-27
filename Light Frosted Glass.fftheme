@@ -1,6 +1,8 @@
 {
     "version": 2.1,
 
+    /* A nice dark and translucent theme for Fiery Feeds */
+
     /* General Colors */
     "kFieryColorsAccentColor" : "FF0033",
     "kFieryColorsBackgroundColor" : "FFFFFF",
